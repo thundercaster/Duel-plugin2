@@ -14,7 +14,7 @@ import org.bukkit.event.player.PlayerChatEvent;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//unfinished
 public class GDuelCommand implements CommandExecutor, Listener {
 
     Duel plugin;
